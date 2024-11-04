@@ -1,7 +1,7 @@
 <p align="center">
   <img height="136" src="https://github.com/amabilee/amabilee/blob/main/content.svg" />
   <a href="https://github.com/amabilee">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amabilee&hide_progress=true&theme=holi" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amabilee&hide_progress=true&langs_count=6&theme=holi" />
   </a>
 </p>
 

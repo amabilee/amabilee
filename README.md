@@ -11,7 +11,7 @@
   <img width="70" src="http://surl.li/vgjtcc"/>
   <img width="70" src="http://surl.li/dgrdob"/>
   <img width="70" src="http://surl.li/kcpvkq"/>
-  <img width="70" src="http://surl.li/tarqcm"/>
+<!--   <img width="70" src="http://surl.li/tarqcm"/> -->
   <img width="70" src="http://surl.li/wqctsb"/>
   <img width="70" src="http://surl.li/mxiwmc"/>
   <img width="70" src="http://surl.li/nwuvgm"/>
